@@ -1,1 +1,2 @@
 "This is my File" 
+"Resolved by hotfix" 
